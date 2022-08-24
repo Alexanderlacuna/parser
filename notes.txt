@@ -1,0 +1,80 @@
+﻿[Song]
+{
+  Name = "En Barranquilla Me Quedo"
+  Artist = "Joe Arroyo"
+  Charter = "CyclopsDragon"
+  Album = "Greatest Salsa Classics of Colombia, Vol. 2"
+  Year = ", 2015"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "rock"
+  MediaType = "cd"
+  MusicStream = "guitar.ogg"
+
+
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 103000
+  1536 = B 162000
+  1920 = B 144000
+  2688 = B 150000
+  3072 = B 146000
+  3456 = B 154000
+  3840 = TS 6
+  3840 = B 162000
+  4224 = B 152000
+  4608 = B 165000
+  4992 = TS 5
+  4992 = B 105000
+  5568 = B 82000
+  103488 = B 123413
+  103680 = B 144152
+  103872 = B 99511
+  104256 = B 116014
+  104448 = B 83792
+  104640 = B 106000
+}
+[Events]
+{
+  1536 = E "section Intro A"
+  3456 = E "phrase_start"
+  3552 = E "lyric Woo!"
+  3744 = E "phrase_end"
+
+  95184 = E "lyric me"
+  95232 = E "lyric qu-"
+  95328 = E "lyric edo"
+  95376 = E "lyric me"
+  99408 = E "lyric go-"
+  99504 = E "lyric zar"
+  99648 = E "section Outro"
+  99696 = E "phrase_end"
+}
+[ExpertSingle]
+{
+  1536 = N 3 0
+  1536 = N 4 0
+  1536 = N 6 0 
+  104496 = N 6 0 
+  104832 = N 0 0
+  104832 = N 6 0 
+  104880 = N 2 0
+  104880 = N 6 0 
+}
+[MediumSingle]
+{
+  1536 = N 3 0
+  1536 = N 6 0 
+  1824 = N 3 0
+  1824 = N 6 0 
+  1920 = N 2 0
+  1920 = N 6 0 
+  104880 = N 1 0
+  104880 = N 6 0 
+}
